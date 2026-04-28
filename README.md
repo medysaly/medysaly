@@ -5,7 +5,7 @@ I'm a Computer Science student building on AWS — AI applications, voice agents
 ## 🔧 Tech I use
 
 - Languages: Python, JavaScript/TypeScript, SQL, Bash
-- Backend & AI: FastAPI, Express.js, OpenAI / Anthropic Claude APIs, AWS Bedrock, LangChain, VAPI, TensorFlow / Keras (coursework)
+- Backend & AI: FastAPI, Express.js, OpenAI / Anthropic Claude APIs, AWS Bedrock, LangChain, VAPI, TensorFlow / Keras 
 - Frontend: Next.js, React, Tailwind CSS
 - Cloud & DevOps: AWS (EC2, S3, Lambda, Bedrock, IAM, API Gateway, CloudWatch), Docker, Vercel, Linux, SSH
 - Databases: PostgreSQL (Supabase), DynamoDB, MongoDB
