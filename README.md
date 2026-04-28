@@ -1,6 +1,6 @@
 # Hey, I'm Mehdi 👋
 
-I'm a Computer Science student building on AWS — AI applications, voice agents, and cloud infrastructure. Comfortable across the stack: cloud architecture, agent systems, and end-to-end deployment.
+I'm a Computer Science student building on AWS: AI applications, voice agents, and cloud infrastructure. Comfortable across the stack: cloud architecture, agent systems, and end-to-end deployment.
 
 ## 🔧 Tech I use
 
