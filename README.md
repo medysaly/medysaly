@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Mehdi 👋
 
-<!--
-**medysaly/medysaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student building on AWS — AI applications, voice agents, and cloud infrastructure. Comfortable across the stack: cloud architecture, agent systems, and end-to-end deployment.
 
-Here are some ideas to get you started:
+## 🔧 Tech I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: Python, JavaScript/TypeScript, SQL, Bash
+- Backend & AI: FastAPI, Express.js, OpenAI / Anthropic Claude APIs, AWS Bedrock, LangChain, VAPI, TensorFlow / Keras (coursework)
+- Frontend: Next.js, React, Tailwind CSS
+- Cloud & DevOps: AWS (EC2, S3, Lambda, Bedrock, IAM, API Gateway, CloudWatch), Docker, Vercel, Linux, SSH
+- Databases: PostgreSQL (Supabase), DynamoDB, MongoDB
+
+## 🚀 Current projects
+
+- **Unkommon** – AI services platform: voice receptionist (VAPI + AWS Bedrock + Lambda) and website chatbot, deployed end-to-end on AWS.
+- **Beesknees AI** – Productized AI receptionist targeting local service businesses (HVAC + Plumbing in Fairfield County, NY metro). Voice agent deployed in production with auto-logging to Notion CRM.
+- **Company Policy RAG** – Retrieval-Augmented Generation system with hybrid retrieval (dense embeddings + BM25) and RAGAS evaluation. Deployed on Hugging Face Spaces.
+- **AWS hands-on labs** – Production websites on EC2 + S3, OpenClaw self-hosted on EC2 with Docker, Lambda + Bedrock experiments.
+
+## 🎓 Background
+
+- B.S. in Computer Science at SNHU, graduating August 2026 (GPA 3.71).
+- Focused on AI/ML engineering, cloud infrastructure (AWS), and production-ready agent systems.
+
+## 📌 What I'm exploring now
+
+- Production AWS workloads: cloud architecture (Bedrock, Lambda, IAM, VPC, networking), AI applications, agent systems, end-to-end deployment.
+- AWS certifications: Cloud Practitioner (May 2026), AI Practitioner (May 2026), Solutions Architect Associate (July 2026).
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/mehdi-salhi-work
+- Email: mehdisalhi.dev@gmail.com
+- Site: https://mehdisalhi.com
+
+
+
