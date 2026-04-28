@@ -15,7 +15,7 @@ I'm a Computer Science student building on AWS: AI applications, voice agents, a
 - **Unkommon** – AI services platform: voice receptionist (VAPI + AWS Bedrock + Lambda) and website chatbot, deployed end-to-end on AWS.
 - **Beesknees AI** – Productized AI receptionist targeting local service businesses (HVAC + Plumbing in Fairfield County, NY metro). Voice agent deployed in production with auto-logging to Notion CRM.
 - **Company Policy RAG** – Retrieval-Augmented Generation system with hybrid retrieval (dense embeddings + BM25) and RAGAS evaluation. Deployed on Hugging Face Spaces.
-- **AWS hands-on labs** – Production websites on EC2 + S3, OpenClaw self-hosted on EC2 with Docker, Lambda + Bedrock experiments.
+- **AWS hands-on labs** – Production websites on EC2 + S3 + Amplify, OpenClaw self-hosted on EC2 with Docker, Lambda + Bedrock experiments.
 
 ## 🎓 Background
 
