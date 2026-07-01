@@ -1,10 +1,19 @@
 # Hey, I'm Mehdi 👋
 
-I'm a Computer Science student building on AWS: cloud infrastructure, AI applications, and the serverless backends that run them. Comfortable across the stack, from cloud architecture to agent systems to end-to-end deployment.
+Cloud Engineer and Computer Science graduate (SNHU, August 2026, GPA 3.71).
+AWS Certified Cloud Practitioner + Solutions Architect Associate.
+
+I build and deploy production infrastructure on AWS — serverless architectures, secure APIs, and AI-powered backends. My focus is on systems that actually run in production, not just in development.
 
 ## 🔧 Tech I use
 
-- Python, JavaScript/Next.js, AWS (EC2, S3, IAM, Lambda, DynamoDB, API Gateway, Cognito, Amplify, SES, Bedrock, SageMaker, CloudWatch), AWS SAM, AWS CLI, Terraform, Docker, Kubernetes, PostgreSQL, MongoDB, TensorFlow, REST APIs, LangChain, RAG.
+- AWS (EC2, S3, IAM, Lambda, API Gateway, VPC, DynamoDB, RDS, CloudFront, Route 53, Amplify, SES, Bedrock, SageMaker, CloudWatch) · AWS SAM ·
+CloudFormation · Terraform · Docker · Kubernetes · Python · JavaScript · CI/CD · REST APIs · PostgreSQL · MongoDB
+
+## ☁️ Cloud & Security Practices
+
+Serverless Architecture · Infrastructure as Code (SAM/CloudFormation) · Least-Privilege IAM · WAF & Rate Limiting · HMAC Verification ·
+VPC Networking · CORS & Security Headers · AWS Secrets Manager
 
 ## 🚀 Current projects
 
@@ -19,12 +28,9 @@ I'm a Computer Science student building on AWS: cloud infrastructure, AI applica
 
 ## 📜 AWS Certifications
 
-- ✅ AWS Certified Cloud Practitioner (May 2026, earned)
-- 🎯 In progress: Solutions Architect Associate (early June 2026), HashiCorp Terraform Associate (late June 2026), AWS AI Practitioner (July 2026, optional)
-
-## 📌 What I'm exploring now
-
-- Production AWS workloads: cloud architecture, AI applications, agent systems, end-to-end deployment.
+- ✅ AWS Certified Cloud Practitioner  
+- ✅ AWS Certified Solutions Architect – Associate  
+- 🎯 In progress: HashiCorp Terraform Associate (August 2026)
 
 ## 📫 Connect
 
@@ -32,4 +38,4 @@ I'm a Computer Science student building on AWS: cloud infrastructure, AI applica
 - Email: mehdisalhi.dev@gmail.com
 - Site: https://mehdisalhi.com
 
-* Open to internships and entry-level Cloud Engineer or Solutions Engineer roles.*
+* Open to Cloud Engineer, DevOps, and AI Infrastructure roles*
