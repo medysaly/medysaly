@@ -1,19 +1,30 @@
 # Hey, I'm Mehdi 👋
 
-Cloud Engineer and Computer Science graduate (SNHU, August 2026, GPA 3.71).
-AWS Certified Cloud Practitioner + Solutions Architect Associate.
+Cloud & DevOps Engineer | Computer Science graduate (SNHU, August 2026, GPA 3.71)
+AWS Certified Solutions Architect Associate + Cloud Practitioner
 
-I build and deploy production infrastructure on AWS — serverless architectures, secure APIs, and AI-powered backends. My focus is on systems that actually run in production, not just in development.
+I build and automate cloud infrastructure on AWS, from infrastructure as code and CI/CD pipelines to containers, security, and monitoring. My focus is systems that run reliably in production.
+
 
 ## 🔧 Tech I use
 
-- AWS (EC2, S3, IAM, Lambda, API Gateway, VPC, DynamoDB, RDS, CloudFront, Route 53, Amplify, SES, Bedrock, SageMaker, CloudWatch) · AWS SAM ·
-CloudFormation · Terraform · Docker · Kubernetes · Python · JavaScript · CI/CD · REST APIs · PostgreSQL · MongoDB
+AWS Cloud
+EC2 · Lambda · ECS/Fargate · EKS · S3 · DynamoDB · RDS · VPC · API Gateway · Route 53 · Load Balancing · CloudWatch · Bedrock
 
-## ☁️ Cloud & Security Practices
+Infrastructure as Code
+Terraform · AWS CDK · CloudFormation · AWS SAM
 
-Serverless Architecture · Infrastructure as Code (SAM/CloudFormation) · Least-Privilege IAM · WAF & Rate Limiting · HMAC Verification ·
-VPC Networking · CORS & Security Headers · AWS Secrets Manager
+Containers & CI/CD
+Docker · Kubernetes · Helm · GitHub Actions · ArgoCD · GitOps · CI/CD Pipelines
+
+Monitoring & Automation
+Prometheus · Grafana · CloudWatch · Ansible
+
+Security & Networking
+IAM · Least Privilege · Security Groups · NACLs · WAF · OIDC · TLS/SSL · DNS
+
+Languages & Data
+Python · Bash · YAML · JavaScript/TypeScript · SQL (PostgreSQL, MySQL) · NoSQL (DynamoDB, MongoDB)
 
 ## 🚀 Current projects
 
