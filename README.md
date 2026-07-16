@@ -28,9 +28,9 @@ Python · Bash · YAML · JavaScript/TypeScript · SQL (PostgreSQL, MySQL) · No
 
 ## 🚀 Current projects
 
-- **Unkommon.** Solo-built AI services platform on AWS: voice receptionist (Vapi + Bedrock + Lambda) and website chatbot, deployed end-to-end via AWS SAM. First service line is a voice receptionist for HVAC and plumbing in the NY metro.
-- **Company Policy RAG.** Retrieval-Augmented Generation system with hybrid retrieval (dense embeddings + BM25), cross-encoder reranking, and RAGAS evaluation. Deployed on Hugging Face Spaces.
-- **AWS hands-on labs.** Production websites on EC2 + S3 + Amplify, OpenClaw self-hosted on EC2 with Docker, Lambda + Bedrock experiments.
+AWS Cost Watchdog — a serverless FinOps tool that tracks AWS spend and waste: daily cost digests to Slack/Telegram, idle-resource detection, tag-policy enforcement via AWS Config, and ML-based anomaly alerts via Cost Anomaly Detection, with a React dashboard. Four event-driven Lambdas on EventBridge, provisioned with Terraform (remote S3 state + DynamoDB locking) and deployed through GitHub Actions with OIDC federation, no static credentials. Already caught real savings in production. github.com/medysaly/aws-cost-watchdog
+Unkommon — a serverless AI platform I designed, built, and deployed on AWS solo. A website chatbot and a voice agent on Bedrock, with a real security layer (WAF, least-privilege IAM, prompt-injection guards). Refactored into a layered, tested architecture with a CI pipeline and a redesigned DynamoDB data layer. unkommon.ai
+Company Policy RAG — a Retrieval-Augmented Generation system with hybrid retrieval (dense + BM25), cross-encoder reranking, and RAGAS evaluation. Deployed on Hugging Face Spaces.
 
 ## 🎓 Background
 
