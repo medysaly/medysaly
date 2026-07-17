@@ -1,9 +1,8 @@
 # Hey, I'm Mehdi 👋
 
-Cloud & DevOps Engineer | Computer Science graduate (SNHU, August 2026, GPA 3.71)
-AWS Certified Solutions Architect Associate + Cloud Practitioner
+Cloud & DevOps engineer. B.S. Computer Science (SNHU, Aug 2026). AWS Certified Solutions Architect Associate & Cloud Practitioner.
 
-I build and automate cloud infrastructure on AWS, from infrastructure as code and CI/CD pipelines to containers, security, and monitoring. My focus is systems that run reliably in production.
+I build and deploy cloud infrastructure on AWS and automate it end to end with infrastructure as code and CI/CD. Comfortable across compute, networking, containers, and security, and I build the applications that run on top, including AI systems.
 
 
 ## 🔧 Tech I use
