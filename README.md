@@ -15,13 +15,13 @@ Lambda · API Gateway · DynamoDB · S3 · EventBridge · SNS · CloudWatch · E
 Terraform · AWS SAM · CloudFormation
 
 **Containers & CI/CD**
-Docker · GitHub Actions · OIDC · CI/CD pipelines
+Docker · GitHub Actions · CI/CD pipelines
 
 **Security**
 IAM least-privilege · WAF · OIDC · HMAC-verified webhooks · Secrets Manager
 
 **Languages & Tools**
-Python · Bash · Linux · Git · YAML · JavaScript/TypeScript · SQL · DynamoDB
+Python · Bash · Linux · Git · YAML · JavaScript/TypeScript · SQL
 
 **AI**
 Amazon Bedrock · Amazon SageMaker · LLMs · RAG · embeddings + cross-encoder reranking · RAGAS evaluation · prompt engineering
