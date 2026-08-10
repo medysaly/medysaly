@@ -20,11 +20,11 @@ Docker · GitHub Actions · OIDC · CI/CD pipelines
 **Security**
 IAM least-privilege · WAF · OIDC · HMAC-verified webhooks · Secrets Manager
 
-**Languages & Data**
-Python · Bash · YAML · JavaScript/TypeScript · SQL · DynamoDB
+**Languages & Tools**
+Python · Bash · Linux · Git · YAML · JavaScript/TypeScript · SQL · DynamoDB
 
 **AI**
-Amazon Bedrock · LLMs · RAG · embeddings + cross-encoder reranking · RAGAS evaluation · prompt engineering
+Amazon Bedrock · Amazon SageMaker · LLMs · RAG · embeddings + cross-encoder reranking · RAGAS evaluation · prompt engineering
 
 **📚 Currently learning:** Kubernetes
 
