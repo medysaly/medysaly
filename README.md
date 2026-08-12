@@ -24,7 +24,7 @@ IAM least-privilege · WAF · OIDC · HMAC-verified webhooks · Secrets Manager
 Python · Bash · Linux · Git · YAML · JavaScript/TypeScript · SQL
 
 **AI**
-Amazon Bedrock · Amazon SageMaker · LLMs · RAG · embeddings + cross-encoder reranking · RAGAS evaluation · prompt engineering
+Amazon Bedrock · Amazon SageMaker · LLMs · RAG · prompt engineering
 
 **📚 Currently learning:** Kubernetes
 
