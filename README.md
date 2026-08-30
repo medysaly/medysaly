@@ -4,7 +4,7 @@ Computer Science student at SNHU (graduating November 2026), AWS Certified Solut
 
 I design, deploy, and secure production-grade systems on AWS and automate them end to end with infrastructure as code and CI/CD. My work ranges from a serverless FinOps tool that monitors cloud cost and waste to AI applications on Amazon Bedrock (LLMs, RAG, and agents), all built with Terraform and GitHub Actions.
 
-**Open to entry-level and internship roles in cloud, DevOps, and AI engineering. No sponsorship needed.**
+**Open to entry-level and internship roles in cloud, DevOps, and AI engineering.**
 
 ## 🔧 Tech I use
 
