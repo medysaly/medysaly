@@ -1,6 +1,7 @@
 # Hey, I'm Mehdi 👋
 
-Computer Science student at SNHU (graduating November 2026), AWS Certified Solutions Architect Associate and Cloud Practitioner, focused on cloud and DevOps engineering.
+Computer Science graduate (SNHU, September 2026), AWS Certified Solutions Architect Associate and Cloud Practitioner, focused on cloud and AI engineering.
+
 
 I design, deploy, and secure production-grade systems on AWS and automate them end to end with infrastructure as code and CI/CD. My work ranges from a serverless FinOps tool that monitors cloud cost and waste to AI applications on Amazon Bedrock (LLMs, RAG, and agents), all built with Terraform and GitHub Actions.
 
